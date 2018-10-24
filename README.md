@@ -1,3 +1,3 @@
-# PyhtoininMIIGAiK
+# PythonMIIGAiK
 Курсы Python
 test
